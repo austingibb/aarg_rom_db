@@ -28,7 +28,7 @@
 - **Donkey Kong Country 2: Diddy's Kong Quest**  ❌
 - **Super Bomberman 2**  ❌
 - **Super Mario Kart**  ❌
-
+- **Goof Troop**  ❌
 ---
 
 ### Sega Genesis
