@@ -29,6 +29,7 @@
 - **Super Bomberman 2**  ❌
 - **Super Mario Kart**  ❌
 - **Goof Troop**  ❌
+- **Super Castlevania 4**  ❌
 ---
 
 ### Sega Genesis
